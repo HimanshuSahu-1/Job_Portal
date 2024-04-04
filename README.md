@@ -42,4 +42,4 @@ The project will be available at http://localhost:3000 by default.
 - Apply for Jobs from the job details page (if logged in).
 - Toast Notifications.
 
-If you have any questions or need assistance, feel free to contact us at [shwetasdhake16@gmail.com].
+
